@@ -14,17 +14,4 @@ View all items in the cart
 
 Calculate the total price
 
-Simple text-based menu for interaction
-
-How to run
-Make sure you have Python installed (version 3.x recommended).
-
-Download or clone this repository.
-
-Open a terminal/command prompt in the project folder.
-
-Run the project with:
-
-bash
-Copy
-Edit
+t took help from youtube , yeah i knoe it is better to do project by self 0 to 100 persentage i will try next time (next project ) enjoy this basic project . 
