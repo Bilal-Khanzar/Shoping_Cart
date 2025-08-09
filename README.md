@@ -14,4 +14,5 @@ View all items in the cart
 
 Calculate the total price
 
-t took help from youtube , yeah i knoe it is better to do project by self 0 to 100 persentage i will try next time (next project ) enjoy this basic project . 
+i took help from youtube , yeah i know it is better to do project by myself 0 to 100 persentage but  i will gice you promise  next project will be enjoyfull 
+
